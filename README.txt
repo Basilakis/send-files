@@ -1,5 +1,5 @@
 === Send Files ===
-Contributors: brainstormforce, rushijagani
+Contributors: brainstormforce
 Donate link: https://www.brainstormforce.com/payment/
 Requires at least: 4.4
 Tags: send files, share files
