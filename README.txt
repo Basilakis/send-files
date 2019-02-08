@@ -1,10 +1,10 @@
 === Send Files ===
-Contributors: brainstormforce, rushijagani
+Contributors: brainstormforce
 Donate link: https://www.brainstormforce.com/payment/
 Requires at least: 4.4
 Tags: send files, share files
 Stable tag: 1.0.0
-Tested up to: 4.8.1
+Tested up to: 5.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
